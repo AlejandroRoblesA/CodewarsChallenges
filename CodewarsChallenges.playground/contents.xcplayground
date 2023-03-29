@@ -3,5 +3,6 @@
     <pages>
         <page name='001-Persistence'/>
         <page name='002-AreTheyTheSame'/>
+        <page name='003-Grades'/>
     </pages>
 </playground>
